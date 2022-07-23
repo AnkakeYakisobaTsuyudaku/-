@@ -1,6 +1,6 @@
 import http.server
 
-server_address = ("", 8000)
+server_address = ("", 80)
 handler_class = http.server.CGIHTTPRequestHandler
 
 server = http.server.HTTPServer(server_address, handler_class)
