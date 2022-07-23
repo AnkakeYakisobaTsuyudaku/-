@@ -131,7 +131,7 @@ template = f"""
 </head>
 <body>
 <div class="main">
-    <form action="/cgi-bin/repo/21K1016_R02.py" method="post">
+    <form action="/cgi-bin/repo/R02.py" method="post">
     <h1>洗濯判定くん</h1>
         　<h4>入力した時間から六時間後までの天気のデータを、
         <a href="https://open-meteo.com/en">Open-Meteo</a>
